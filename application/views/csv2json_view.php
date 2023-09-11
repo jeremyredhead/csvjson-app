@@ -13,7 +13,7 @@
 				<input id="fileupload" type="file" name="file" class="form-control"/>
 			</div>
 			<div class="mb-3">
-				<label class="form-label">Or paste your CSV here</label>
+				<label for="csv" class="form-label">Or paste your CSV here</label>
 <textarea id="csv" class="form-control input save" rows="18" spellcheck="false">
 album, year, US_peak_chart_post
 The White Stripes, 1999, -
